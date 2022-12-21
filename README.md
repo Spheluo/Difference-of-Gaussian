@@ -1,5 +1,5 @@
 # Difference-of-Gaussian
-## Implementation of Difference of Gaussian (DoG) in Computer Vision (CV)
+## Implementation of Difference of Gaussian (DoG)
 
 ### 1. Use eval.py to generate DoG images and evaluate the keypoints generated from DoG.py. The command is as follows: 
 
